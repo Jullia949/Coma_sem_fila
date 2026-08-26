@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color:white
 }
 
 h2{
@@ -10,14 +10,14 @@ h2{
 }
 
 h3{
-    color: rgb(120, 10, 10);
+    color: #7C0902;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     font-size: 2.0em;
 }
 
 p{
-    color: darkslategrey;
+    color: #FF0000
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     font-size: 1.8em;
